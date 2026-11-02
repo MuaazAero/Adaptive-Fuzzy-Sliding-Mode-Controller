@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this model in your work, please cite it as below."
+title: "Adaptive Fuzzy Non-singular Terminal Sliding Mode Control of a Quadrotor (MATLAB/Simulink)"
+type: software
+authors:
+  - name: "Muaaz"
+version: 1.0.0
+license: MIT
+keywords:
+  - quadrotor
+  - sliding mode control
+  - terminal sliding mode
+  - fuzzy logic
+  - Sugeno
+  - Simulink

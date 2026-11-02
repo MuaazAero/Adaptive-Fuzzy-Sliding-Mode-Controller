@@ -1,0 +1,24 @@
+# Simulink / MATLAB generated files
+slprj/
+*.slxc
+*.autosave
+*.slx.autosave
+*.slx.original
+*.slx.r*
+*.asv
+*.m~
+*.mex*
+codegen/
+*_grt_rtw/
+*_ert_rtw/
+*.log
+
+# Local simulation output
+results/
+out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

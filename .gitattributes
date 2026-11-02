@@ -1,0 +1,12 @@
+# Keep binary assets binary so Git never mangles them
+*.slx   binary
+*.mdl   binary
+*.mat   binary
+*.pptx  binary
+*.pdf   binary
+*.png   binary
+
+# Text
+*.m     text diff=matlab
+*.fis   text eol=lf
+*.md    text eol=lf
